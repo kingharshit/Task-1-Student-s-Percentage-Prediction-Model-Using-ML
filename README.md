@@ -3,7 +3,7 @@
 # GRIPNOV20
 
 # About The Sparks Foundation
-https://github.com/m0-k1/TSF--Data-Science-Tasks/blob/master/tsf.png
+
 
 The Sparks Foundation mission is to inspire students, help them innovate, and let them integrate to build the next
 generation humankind. To inspire, motivate, and encourage students to learn, create, and help build a better society.
